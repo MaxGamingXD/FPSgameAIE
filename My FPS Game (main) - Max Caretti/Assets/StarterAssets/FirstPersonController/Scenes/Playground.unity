@@ -1243,7 +1243,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Shell: {fileID: 8908863523847481026, guid: 95b795ab2cb543f448db79f6bdfb7020, type: 3}
   m_FireTransform: {fileID: 300182665}
-  m_LaunchForce: 10
+  m_LaunchForce: 20
   m_ShootDelay: 1
 --- !u!114 &2030702615
 MonoBehaviour:
